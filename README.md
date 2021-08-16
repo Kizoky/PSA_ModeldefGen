@@ -11,7 +11,10 @@ This is a tool I used specially for Share the Doom (A Postal 2 GZDoom mod), but 
 
 Because I'm not sure If I can share decompiled source code of the tool, I can only provide the executable.
 
+After generating the Modeldef Output text file, the program will automatically open it for you, it will be saved next to the exe's location.
 ## .NET Framework 4.5 REQUIRED
+Bugs:
+- Sometimes the spriteset for each animation frame gets skipped, or gets changed too early than it should, this doesn't happen that much frequently, and frankly it doesn't cause any serious problems
 
 ![Tool](https://i.imgur.com/l3LFOGA.png)
 ![Output](https://i.imgur.com/EWsbxYv.png)
