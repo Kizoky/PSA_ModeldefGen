@@ -11,5 +11,7 @@ This is a tool I used specially for Share the Doom (A Postal 2 GZDoom mod), but 
 
 Because I'm not sure If I can share decompiled source code of the tool, I can only provide the executable.
 
+## .NET Framework 4.5 REQUIRED
+
 ![Tool](https://i.imgur.com/l3LFOGA.png)
 ![Output](https://i.imgur.com/EWsbxYv.png)
